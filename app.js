@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 function fetchServerStatus() {
     // You might need a server-side proxy to handle CORS issues.
-    const apiUrl = 'https://api.mcsrvstat.us/2/34.148.241.156:25565';
+    const apiUrl = 'https://api.mcsrvstat.us/2/mc.matt-middleton.com';
 
     fetch(apiUrl)
         .then(response => response.json())
