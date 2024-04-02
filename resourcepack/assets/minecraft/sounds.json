@@ -47,6 +47,14 @@
       }
     ]
   },
+  "record.heartless": {
+    "sounds": [
+      {
+        "name": "heartless",
+        "stream": true
+      }
+    ]
+  },
   "effects.knocking": {
     "sounds": [
       {
