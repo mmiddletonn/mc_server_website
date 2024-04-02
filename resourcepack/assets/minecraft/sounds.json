@@ -31,6 +31,22 @@
       }
     ]
   },
+  "record.everybody": {
+    "sounds": [
+      {
+        "name": "everybody",
+        "stream": true
+      }
+    ]
+  },
+  "record.sickomode": {
+    "sounds": [
+      {
+        "name": "sickomode",
+        "stream": true
+      }
+    ]
+  },
   "effects.knocking": {
     "sounds": [
       {
