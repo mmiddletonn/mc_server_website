@@ -1,0 +1,42 @@
+{
+  "record.paris": {
+    "sounds": [
+      {
+        "name": "paris",
+        "stream": true
+      }
+    ]
+  },
+  "record.chamberofreflection": {
+    "sounds": [
+      {
+        "name": "chamberofreflection",
+        "stream": true
+      }
+    ]
+  },
+  "record.wellmeetagain": {
+    "sounds": [
+      {
+        "name": "wellmeetagain",
+        "stream": true
+      }
+    ]
+  },
+  "record.hollywoodsbleeding": {
+    "sounds": [
+      {
+        "name": "hollywoodsbleeding",
+        "stream": true
+      }
+    ]
+  },
+  "effects.knocking": {
+    "sounds": [
+      {
+        "name": "knocking",
+        "stream": true
+      }
+    ]
+  }
+}
