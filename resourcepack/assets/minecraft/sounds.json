@@ -55,6 +55,14 @@
       }
     ]
   },
+  "record.fein": {
+    "sounds": [
+      {
+        "name": "fein",
+        "stream": true
+      }
+    ]
+  },
   "effects.knocking": {
     "sounds": [
       {
